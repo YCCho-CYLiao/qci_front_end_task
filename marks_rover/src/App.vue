@@ -1,6 +1,9 @@
+
 <template>
+
   <div id="app">
     <search> </search>
+
   </div>
 </template>
 
@@ -8,16 +11,17 @@
 
 import Search from './components/Search'
 
-
 export default {
   name: 'app',
   components: {
-    Search
+    Search,
   }
+
 }
 </script>
 
 <style>
+
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;

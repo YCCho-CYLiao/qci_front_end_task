@@ -1,4 +1,4 @@
-# marks_rover
+# mars_rover photos search project
 
 ## Project setup
 ```
